@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\ecommerc.web\dataModels\bin\Debug\net8.0\campany.data.deps.json
+C:\Users\pc\source\repos\ecommerc.web\dataModels\bin\Debug\net8.0\campany.data.dll
+C:\Users\pc\source\repos\ecommerc.web\dataModels\bin\Debug\net8.0\campany.data.pdb
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\campany.data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\campany.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\campany.data.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\campany.data.AssemblyInfo.cs
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\campany.data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\campany.data.dll
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\refint\campany.data.dll
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\campany.data.pdb
+C:\Users\pc\source\repos\ecommerc.web\dataModels\obj\Debug\net8.0\ref\campany.data.dll

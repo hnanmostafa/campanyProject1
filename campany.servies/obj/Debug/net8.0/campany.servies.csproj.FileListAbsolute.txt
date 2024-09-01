@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\bin\Debug\net8.0\campany.servies.deps.json
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\bin\Debug\net8.0\campany.servies.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\bin\Debug\net8.0\campany.servies.pdb
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\bin\Debug\net8.0\campany.data.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\bin\Debug\net8.0\campany.reprosatory.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\bin\Debug\net8.0\campany.reprosatory.pdb
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\bin\Debug\net8.0\campany.data.pdb
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany.servies.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany.servies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany.servies.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany.servies.AssemblyInfo.cs
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany.servies.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany..9DB1B9D9.Up2Date
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany.servies.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\refint\campany.servies.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\campany.servies.pdb
+C:\Users\pc\source\repos\ecommerc.web\campany.servies\obj\Debug\net8.0\ref\campany.servies.dll

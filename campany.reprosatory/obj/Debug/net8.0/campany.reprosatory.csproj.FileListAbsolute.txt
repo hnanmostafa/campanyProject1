@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\bin\Debug\net8.0\campany.reprosatory.deps.json
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\bin\Debug\net8.0\campany.reprosatory.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\bin\Debug\net8.0\campany.reprosatory.pdb
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\bin\Debug\net8.0\campany.data.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\bin\Debug\net8.0\campany.data.pdb
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany.reprosatory.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany.reprosatory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany.reprosatory.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany.reprosatory.AssemblyInfo.cs
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany.reprosatory.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany..57A63F79.Up2Date
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany.reprosatory.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\refint\campany.reprosatory.dll
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\campany.reprosatory.pdb
+C:\Users\pc\source\repos\ecommerc.web\campany.reprosatory\obj\Debug\net8.0\ref\campany.reprosatory.dll

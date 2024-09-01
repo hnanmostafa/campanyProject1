@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\igenericreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\interfaces\\igenericreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\departmentreprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\reprosatories\\departmentreprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\employeereprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\reprosatories\\employeereprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\campany.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\campany.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\campany.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\campany.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\iemployeereprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\interfaces\\iemployeereprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\idepartmentreprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\interfaces\\idepartmentreprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\genericreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\reprosatories\\genericreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\context\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\context\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\context\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\context\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\context\\campanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\context\\campanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3388FCE3-3601-481C-A182-E164E3498021}|campany.servies\\campany.servies.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\campany.servies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3388FCE3-3601-481C-A182-E164E3498021}|campany.servies\\campany.servies.csproj|solutionrelative:campany.servies\\campany.servies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\campany.reprosatory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\campany.reprosatory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\migrations\\20240901141310_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\migrations\\20240901141310_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\datamodels\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3388FCE3-3601-481C-A182-E164E3498021}|campany.servies\\campany.servies.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3388FCE3-3601-481C-A182-E164E3498021}|campany.servies\\campany.servies.csproj|solutionrelative:campany.servies\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|c:\\users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E2347-9A3A-4F08-8F7C-0AD9CEDDCC97}|campany.reprosatory\\campany.reprosatory.csproj|solutionrelative:campany.reprosatory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ecommerc.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ecommerc.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T17:56:07.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecommerc.web\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "ecommerc.web\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T16:45:59.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeReprosatory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\EmployeeReprosatory.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\reprosatories\\EmployeeReprosatory.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\EmployeeReprosatory.cs",
+              "RelativeToolTip": "campany.reprosatory\\reprosatories\\EmployeeReprosatory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:27:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentReprosatory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "RelativeToolTip": "campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:39:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericReposatory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\IGenericReposatory.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\interfaces\\IGenericReposatory.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\IGenericReposatory.cs",
+              "RelativeToolTip": "campany.reprosatory\\interfaces\\IGenericReposatory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:47:32.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ecommerc.web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ecommerc.web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T16:57:26.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Program.cs",
+              "RelativeDocumentMoniker": "ecommerc.web\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Program.cs",
+              "RelativeToolTip": "ecommerc.web\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:27:17.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "dataModels\\Entity\\Department.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Entity\\Department.cs",
+              "RelativeToolTip": "dataModels\\Entity\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:43:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ecommerc.web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:00:26.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ecommerc.web\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:35:24.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\appsettings.json",
+              "RelativeDocumentMoniker": "ecommerc.web\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\appsettings.json",
+              "RelativeToolTip": "ecommerc.web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T12:36:19.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "campany.data.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\campany.data.csproj",
+              "RelativeDocumentMoniker": "dataModels\\campany.data.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\campany.data.csproj",
+              "RelativeToolTip": "dataModels\\campany.data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T11:29:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDepartmentReprosatory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\IDepartmentReprosatory.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\interfaces\\IDepartmentReprosatory.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\IDepartmentReprosatory.cs",
+              "RelativeToolTip": "campany.reprosatory\\interfaces\\IDepartmentReprosatory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:37:52.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericReposatory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\GenericReposatory.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\reprosatories\\GenericReposatory.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\reprosatories\\GenericReposatory.cs",
+              "RelativeToolTip": "campany.reprosatory\\reprosatories\\GenericReposatory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:51:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeReprosatory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\IEmployeeReprosatory.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\interfaces\\IEmployeeReprosatory.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\interfaces\\IEmployeeReprosatory.cs",
+              "RelativeToolTip": "campany.reprosatory\\interfaces\\IEmployeeReprosatory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:19:33.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "campany.web.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\campany.web.csproj",
+              "RelativeDocumentMoniker": "ecommerc.web\\campany.web.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\campany.web.csproj",
+              "RelativeToolTip": "ecommerc.web\\campany.web.csproj",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T11:28:09.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "campanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\context\\campanyDbContext.cs",
+              "RelativeDocumentMoniker": "dataModels\\context\\campanyDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\context\\campanyDbContext.cs",
+              "RelativeToolTip": "dataModels\\context\\campanyDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:01:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "dataModels\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "dataModels\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:40:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "campany.servies.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\campany.servies.csproj",
+              "RelativeDocumentMoniker": "campany.servies\\campany.servies.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\campany.servies.csproj",
+              "RelativeToolTip": "campany.servies\\campany.servies.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T11:27:35.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\context\\configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "dataModels\\context\\configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\context\\configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "dataModels\\context\\configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:34:13.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\context\\configurations\\EmployeeConfigurations.cs",
+              "RelativeDocumentMoniker": "dataModels\\context\\configurations\\EmployeeConfigurations.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\context\\configurations\\EmployeeConfigurations.cs",
+              "RelativeToolTip": "dataModels\\context\\configurations\\EmployeeConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:49:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240901141310_init.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Migrations\\20240901141310_init.cs",
+              "RelativeDocumentMoniker": "dataModels\\Migrations\\20240901141310_init.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Migrations\\20240901141310_init.cs",
+              "RelativeToolTip": "dataModels\\Migrations\\20240901141310_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:13:11.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "dataModels\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\Entity\\Employee.cs",
+              "RelativeToolTip": "dataModels\\Entity\\Employee.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:31:55.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "campany.reprosatory.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\campany.reprosatory.csproj",
+              "RelativeDocumentMoniker": "campany.reprosatory\\campany.reprosatory.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\campany.reprosatory.csproj",
+              "RelativeToolTip": "campany.reprosatory\\campany.reprosatory.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T11:27:18.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\Class1.cs",
+              "RelativeDocumentMoniker": "campany.servies\\Class1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\Class1.cs",
+              "RelativeToolTip": "campany.servies\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:25:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\Class1.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\Class1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\Class1.cs",
+              "RelativeToolTip": "campany.reprosatory\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:23:38.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
