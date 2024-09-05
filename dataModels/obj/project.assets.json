@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\campany.data.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\campany.data.csproj",
       "projectName": "campany.data",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\campany.data.csproj",
+      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\campany.data.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

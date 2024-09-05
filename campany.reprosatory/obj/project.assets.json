@@ -2772,11 +2772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\campany.reprosatory.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.reprosatory\\campany.reprosatory.csproj",
       "projectName": "campany.reprosatory",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\campany.reprosatory.csproj",
+      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.reprosatory\\campany.reprosatory.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.reprosatory\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.reprosatory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2794,8 +2794,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\campany.data.csproj": {
-              "projectPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\dataModels\\campany.data.csproj"
+            "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\campany.data.csproj": {
+              "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\campany.data.csproj"
             }
           }
         }

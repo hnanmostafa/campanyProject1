@@ -1,6 +1,7 @@
 using campany.data.context;
 using campany.reprosatory.interfaces;
 using campany.reprosatory.reprosatories;
+using campany.servies.interfaces.department;
 using Microsoft.EntityFrameworkCore;
 
 namespace ecommerc.web
@@ -19,6 +20,7 @@ namespace ecommerc.web
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
             builder.Services.AddScoped<IDepartmentReprosatory, DepartmentReprosatory>();
+            builder.Services.AddScoped<IDepartmentServes, IDepartmentServes>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

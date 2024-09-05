@@ -7912,11 +7912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\campany.web.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\campany.web.csproj",
       "projectName": "campany.web",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\campany.web.csproj",
+      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\campany.web.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\ecommerc.web\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7934,8 +7934,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\campany.servies.csproj": {
-              "projectPath": "C:\\Users\\pc\\source\\repos\\ecommerc.web\\campany.servies\\campany.servies.csproj"
+            "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.servies\\campany.servies.csproj": {
+              "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.servies\\campany.servies.csproj"
             }
           }
         }
