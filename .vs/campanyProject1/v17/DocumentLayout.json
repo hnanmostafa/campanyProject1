@@ -1,12 +1,102 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ecommerc.web\\Controllers\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Views\\Department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ecommerc.web\\Views\\Department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Views\\Department\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ecommerc.web\\Views\\Department\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.servies\\services\\DepartmentServies\\DepartmentServies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:campany.servies\\services\\DepartmentServies\\DepartmentServies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentServies.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.servies\\services\\DepartmentServies\\DepartmentServies.cs",
+              "RelativeDocumentMoniker": "campany.servies\\services\\DepartmentServies\\DepartmentServies.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.servies\\services\\DepartmentServies\\DepartmentServies.cs",
+              "RelativeToolTip": "campany.servies\\services\\DepartmentServies\\DepartmentServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:27:06.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentReprosatory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "RelativeDocumentMoniker": "campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "RelativeToolTip": "campany.reprosatory\\reprosatories\\DepartmentReprosatory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:26:51.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ecommerc.web\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:26:31.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecommerc.web\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "ecommerc.web\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:23:25.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Views\\Department\\create.cshtml",
+              "RelativeDocumentMoniker": "ecommerc.web\\Views\\Department\\create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Views\\Department\\create.cshtml",
+              "RelativeToolTip": "ecommerc.web\\Views\\Department\\create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:21:55.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

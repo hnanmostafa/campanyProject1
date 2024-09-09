@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("campany.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cadfc5a281ed4542f2503ddfa3da1988594a7fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48f81107bd5b43aeba5a84f23fa4864ccac405fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("campany.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("campany.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

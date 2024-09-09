@@ -53,12 +53,13 @@ namespace campany.web.Controllers
             }
             return View(viewName, department);
         }
-        [HttpGet]
+        [HttpPost]
         public IActionResult Update(int? id)
         {
             return Details(id, "Update");
         }
-        public IActionResult Update(int? id , Department department)
+        [HttpPost]
+        public IActionResult Update(int? id, Department department)
         {
             if (department.id != id.Value)
             {
@@ -67,6 +68,18 @@ namespace campany.web.Controllers
             _departmentServes1.Ubdate(department);
             return RedirectToAction(nameof(Index));
         }
+       
+        public IActionResult Delete(int id)
+        {
+			var department = _departmentServes1.GetById(id);
+            if (department is null)
+            {
+                return NotFound();
+            }
+            _departmentServes1.Delete(department);
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 
 

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using campany.data.context;
 using campany.data.Entity;
 using campany.reprosatory.interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace campany.reprosatory.reprosatories
 {
@@ -17,16 +18,14 @@ namespace campany.reprosatory.reprosatories
         }
 
         public void Add(T entity)
-        {
-            _context.Set<T>().Add(entity);
-            _context.SaveChanges();
-        }
+       
+           => _context.Set<T>().Add(entity);
+        
 
         public void Delete(T entity)
-        {
-            _context.Set<T>().Remove(entity);
-            _context.SaveChanges();
-        }
+        
+          =>  _context.Set<T>().Remove(entity);
+        
 
         public IEnumerable<T> Getall()
         => _context.Set<T>().ToList();
@@ -36,9 +35,8 @@ namespace campany.reprosatory.reprosatories
         => _context.Set<T>().Find(id);
 
         public void Ubdate(T entity)
-        {
-            _context.Set<T>().Update(entity);
-            _context.SaveChanges();
-        }
+        
+          =>  _context.Set<T>().Update(entity);
+        
     }
 }

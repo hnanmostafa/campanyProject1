@@ -23,6 +23,7 @@ namespace campany.data.context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+           // modelBuilder.Entity<BaseEntity>().HasQueryFilter(x => !x.isdeleted);
             base.OnModelCreating(modelBuilder);
         }
         public DbSet<Employee> employees { get; set; }

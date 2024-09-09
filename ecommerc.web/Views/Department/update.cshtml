@@ -3,3 +3,26 @@
 *@
 @{
 }
+@model Department
+<h1> Edit Deparment</h1>
+<form asp-action="Update">
+	<div asp-validation-summary="All"></div>
+	<div class="form-group">
+		<label class="col-form-label" asp-for="code"></label>
+		<input type="text" asp-for="code" class="form-control" readonly />
+		<span asp-validation-for="code" class="text-danger"> </span>
+	</div>
+	<div class="form-group">
+		<label class="col-form-label" asp-for="name"></label>
+		<input type="text" asp-for="name" class="form-control" readonly />
+		<span asp-validation-for="name" class="text-danger"> </span>
+	</div>
+	<div class="form-group">
+		<label class="col-form-label" asp-for="creatAt"></label>
+		<input type="text" asp-for="creatAt" class="form-control" re />
+
+	</div>
+	
+	<input type="submit" value="Create" class="btn btn-primary" />
+	<a asp-action="Index" class="btn btn-light"> Back To list</a>
+</form>

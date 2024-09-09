@@ -12,10 +12,10 @@ namespace campany.servies.services.DepartmentServies
 {
     public class DepartmentServies : IDepartmentServes
     {
-        private readonly IDepartmentReprosatory _departmentReprosatory1;
-        public DepartmentServies(IDepartmentReprosatory departmentReprosatory)
+        private readonly IUnitOfWork _unitOfWork1;
+        public DepartmentServies(IUnitOfWork unitOfWork)
         {
-            _departmentReprosatory1 = departmentReprosatory;
+            _unitOfWork1 = unitOfWork;
         }
         public void Add(Department department)
         {
@@ -26,17 +26,19 @@ namespace campany.servies.services.DepartmentServies
                 creatAt = DateTime.Now
 
             };
-            _departmentReprosatory1.Add(mappedDepartment);
+            _unitOfWork1.DepartmentReprosatory.Add(mappedDepartment);
+            _unitOfWork1.Complete();
         }
 
         public void Delete(Department department)
         {
-            throw new NotImplementedException();
-        }
+			_unitOfWork1.DepartmentReprosatory.Delete(department);
+			_unitOfWork1.Complete();
+		}
 
         public IEnumerable<Department> Getall()
         {
-            var departments = _departmentReprosatory1.Getall();
+            var departments = _unitOfWork1.DepartmentReprosatory.Getall();
 
             return departments;
         }
@@ -47,7 +49,7 @@ namespace campany.servies.services.DepartmentServies
             {
                 return null;
             }
-            var department = _departmentReprosatory1.GetById(id.Value);
+            var department = _unitOfWork1.DepartmentReprosatory.GetById(id.Value);
             if (department is null)
             {
                 return null;
@@ -57,18 +59,9 @@ namespace campany.servies.services.DepartmentServies
 
         public void Ubdate(Department department)
         {
-            var dept = GetById(department.id);
-            if(dept.name!= department.name)
-            {
-                if (Getall().Any(x => x.name == department.name
-                ))
-                {
-                    throw new Exception("DuplicateDepartmentName");
-                }
-                dept.name = department.name;
-                dept.code = department.code;
-                _departmentReprosatory1.Ubdate(department);
-            }
+			_unitOfWork1.DepartmentReprosatory.Ubdate(department);
+			_unitOfWork1.Complete();
+		}
         }
     }
-}
+
