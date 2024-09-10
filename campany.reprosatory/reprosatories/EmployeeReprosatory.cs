@@ -29,7 +29,7 @@ namespace campany.reprosatory.reprosatories
 		
              => _context.employees.Where(X => X.name.Trim().ToLower().Contains(name.Trim().ToLower())).ToList();
 
-		Employee IEmployeeReprosatory.GetEmployeeByName(string name)
+		Employee IEmployeeReprosatory.GetEmployeeByAddress(string name)
 		{
 			throw new NotImplementedException();
 		}

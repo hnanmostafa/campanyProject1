@@ -5,13 +5,19 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using campany.data.Entity;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace campany.data.context
 {
-    public class campanyDbContext : DbContext
+    public class campanyDbContext : IdentityDbContext<ApplicationUser>
     {
-        public campanyDbContext() { }
+        public campanyDbContext()
+        {
+           
+        }
+
         public campanyDbContext(DbContextOptions options) : base(options)
         {
         }

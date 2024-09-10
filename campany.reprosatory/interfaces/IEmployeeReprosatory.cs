@@ -9,7 +9,10 @@ namespace campany.reprosatory.interfaces
 {
     public interface IEmployeeReprosatory :IGenericReposatory <Employee>
     {
-        Employee GetEmployeeByName(string name);
+        IEnumerable<Employee> GetEmployeeByName(string name);
         IEnumerable<Employee> GetEmployeeByAddress(string address);
-    }
+
+
+
+	}
 }

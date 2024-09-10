@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\campany.reprosatory\\interfaces",
+    "\\campany.reprosatory\\reprosatories",
+    "\\campany.servies",
+    "\\campany.servies\\interfaces",
+    "\\campany.servies\\interfaces\\employee",
+    "\\campany.servies\\services",
+    "\\campany.servies\\services\\EmployeeServies",
     "\\ecommerc.web",
-    "\\ecommerc.web\\Views",
-    "\\ecommerc.web\\Views\\Shared"
+    "\\ecommerc.web\\Controllers"
   ],
+  "SelectedNode": "\\campany.servies\\services\\EmployeeServies\\EmployeeServies.cs",
   "PreviewInSolutionExplorer": false
 }

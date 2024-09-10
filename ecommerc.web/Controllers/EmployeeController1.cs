@@ -1,4 +1,5 @@
-﻿using campany.reprosatory.interfaces;
+﻿using campany.data.Entity;
+using campany.reprosatory.interfaces;
 using campany.servies.interfaces.department;
 using campany.servies.interfaces.employee;
 using Microsoft.AspNetCore.Mvc;
@@ -14,15 +15,18 @@ namespace campany.web.Controllers
 		}
 		public IActionResult Index(string searchInp)
 		{
+			ViewBag.Massage = "Hello From Employee Index";
+			IEnumerable<Employee> employees1 = new List<Employee>();
+
 			if (string.IsNullOrEmpty(searchInp))
 			{
-				var employee = _employeeServies1.Getall();
-				return View(employee);
+				employees1 = _employeeServies1.Getall();
+				return View(employees1);
 			}
 			else
 			{
-				var employees = _employeeServies1.GetEmployeeByName(searchInp);
-				return View(employees);
+				employees1 = _employeeServies1.GetEmployeeByName(searchInp);
+				return View(employees1);
 			}
 
 
@@ -31,12 +35,33 @@ namespace campany.web.Controllers
 		[HttpGet]
 		public IActionResult Create()
 		{
-			return View();
+			var employee = _employeeServies1.Getall();
+
+			return View(employee);
+
 		}
 		[HttpPost]
-		public IActionResult Create()
+		public IActionResult Create(Employee employee)
 		{
-			return View();
+			try
+			{
+				if (ModelState.IsValid)
+				{
+					_employeeServies1.Add(employee);
+					return RedirectToAction(nameof(Index));
+				}
+
+
+
+				return View(employee);
+			}
+			catch (Exception ex)
+			{
+
+				return View(employee);
+			}
 		}
+
+		public void
 	}
 }
