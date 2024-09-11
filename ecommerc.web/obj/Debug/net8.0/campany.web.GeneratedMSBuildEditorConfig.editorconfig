@@ -42,6 +42,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFx1cGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/pc/Documents/GitHub/campanyProject1/ecommerc.web/Views/EmployeeController1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Documents/GitHub/campanyProject1/ecommerc.web/Views/EmployeeController1/Detailes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxEZXRhaWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Documents/GitHub/campanyProject1/ecommerc.web/Views/EmployeeController1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/pc/Documents/GitHub/campanyProject1/ecommerc.web/Views/EmployeeController1/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

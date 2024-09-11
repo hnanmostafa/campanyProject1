@@ -517,3 +517,4 @@ C:\Users\pc\Documents\GitHub\campanyProject1\ecommerc.web\obj\Debug\net8.0\refin
 C:\Users\pc\Documents\GitHub\campanyProject1\ecommerc.web\obj\Debug\net8.0\campany.web.pdb
 C:\Users\pc\Documents\GitHub\campanyProject1\ecommerc.web\obj\Debug\net8.0\campany.web.genruntimeconfig.cache
 C:\Users\pc\Documents\GitHub\campanyProject1\ecommerc.web\obj\Debug\net8.0\ref\campany.web.dll
+C:\Users\pc\Documents\GitHub\campanyProject1\ecommerc.web\obj\Debug\net8.0\campany.web.MvcApplicationPartsAssemblyInfo.cs

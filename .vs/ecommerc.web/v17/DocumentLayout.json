@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\documents\\github\\campanyproject1\\ecommerc.web\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\documents\\github\\campanyproject1\\ecommerc.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|c:\\users\\pc\\documents\\github\\campanyproject1\\datamodels\\campany.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3C4E00C-0FE9-45B0-8B43-21C7DA7B3AD9}|dataModels\\campany.data.csproj|solutionrelative:datamodels\\campany.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\documents\\github\\campanyproject1\\ecommerc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{3388FCE3-3601-481C-A182-E164E3498021}|campany.servies\\campany.servies.csproj|solutionrelative:campany.servies\\services\\departmentservies\\departmentservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\documents\\github\\campanyproject1\\ecommerc.web\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\controllers\\employeecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|c:\\users\\pc\\documents\\github\\campanyproject1\\ecommerc.web\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8233D8AA-39EE-49D5-8E00-C9CFB5FF9DC5}|ecommerc.web\\campany.web.csproj|solutionrelative:ecommerc.web\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,24 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\SignUpViewModel.cs",
-              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\SignUpViewModel.cs",
-              "RelativeToolTip": "ecommerc.web\\Controllers\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ecommerc.web\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T16:02:23.828Z",
+              "WhenOpened": "2024-09-11T16:40:30.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "campany.data",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\campany.data.csproj",
+              "RelativeDocumentMoniker": "dataModels\\campany.data.csproj",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\campany.data.csproj",
+              "RelativeToolTip": "dataModels\\campany.data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T16:39:16.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AccountController1.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\AccountController1.cs",
               "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\AccountController1.cs",
@@ -88,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Program.cs",
               "RelativeDocumentMoniker": "ecommerc.web\\Program.cs",
@@ -101,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\Entity\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "dataModels\\Entity\\ApplicationUser.cs",
@@ -114,7 +135,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "EmployeeController1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\EmployeeController1.cs",
+              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\EmployeeController1.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\EmployeeController1.cs",
+              "RelativeToolTip": "ecommerc.web\\Controllers\\EmployeeController1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:05:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\SignUpViewModel.cs",
+              "RelativeToolTip": "ecommerc.web\\Controllers\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:02:23.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "campanyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\context\\campanyDbContext.cs",
               "RelativeDocumentMoniker": "dataModels\\context\\campanyDbContext.cs",
@@ -127,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DepartmentServies.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.servies\\services\\DepartmentServies\\DepartmentServies.cs",
               "RelativeDocumentMoniker": "campany.servies\\services\\DepartmentServies\\DepartmentServies.cs",
@@ -140,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EmployeeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Models\\EmployeeViewModel.cs",
               "RelativeDocumentMoniker": "ecommerc.web\\Models\\EmployeeViewModel.cs",
@@ -153,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\Entity\\Department.cs",
               "RelativeDocumentMoniker": "dataModels\\Entity\\Department.cs",
@@ -166,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\dataModels\\Entity\\Employee.cs",
               "RelativeDocumentMoniker": "dataModels\\Entity\\Employee.cs",
@@ -179,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "campany.web.csproj",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\campany.web.csproj",
               "RelativeDocumentMoniker": "ecommerc.web\\campany.web.csproj",
@@ -192,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmployeeServies.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\campany.servies\\services\\EmployeeServies\\EmployeeServies.cs",
               "RelativeDocumentMoniker": "campany.servies\\services\\EmployeeServies\\EmployeeServies.cs",
@@ -201,19 +248,6 @@
               "ViewState": "AQIAAHIAAAAAAAAAAADwv4UAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T13:17:48.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeController1.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\EmployeeController1.cs",
-              "RelativeDocumentMoniker": "ecommerc.web\\Controllers\\EmployeeController1.cs",
-              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\campanyProject1\\ecommerc.web\\Controllers\\EmployeeController1.cs",
-              "RelativeToolTip": "ecommerc.web\\Controllers\\EmployeeController1.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwEAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T13:05:14.961Z",
               "EditorCaption": ""
             }
           ]
